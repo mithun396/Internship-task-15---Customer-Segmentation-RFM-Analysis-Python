@@ -1,0 +1,37 @@
+Customer Segmentation – Business Actions
+
+1.  Champions
+
+-   Offer VIP rewards and exclusive early access sales
+-   Encourage referrals and loyalty programs
+-   Upsell premium or high-margin products
+
+2.  Loyal Customers
+
+-   Provide personalized product recommendations
+-   Offer bundle discounts
+-   Send regular engagement emails and loyalty points
+
+3.  Potential Loyalists
+
+-   Send targeted offers to increase purchase frequency
+-   Offer limited-time discounts
+-   Recommend complementary products
+
+4.  New Customers
+
+-   Send welcome emails with discount coupons
+-   Educate about brand and product categories
+-   Encourage second purchase with special incentives
+
+5.  At Risk
+
+-   Send reactivation campaigns
+-   Offer strong discounts or cashback
+-   Collect feedback through surveys
+
+6.  Hibernating
+
+-   Send win-back campaigns
+-   Promote new arrivals and trending products
+-   Remove from active campaigns if inactive long-term
